@@ -4,6 +4,7 @@ Berikut langkah instalasi web:
 3. Buat table wordpress pada database
 4. Import file wordpress.sql yang terletak pada root folder hasil clone
 5. Untuk mengakses sesuai URL yang diinginkan dapat dilakukan dengan beberapa opsi (pilih salah satu):
+   
    a. Update file wp-config.php pada root folder hasil clone
       Tambahkan 2 line di bawah setelah define('WP_DEBUG', false);
 
